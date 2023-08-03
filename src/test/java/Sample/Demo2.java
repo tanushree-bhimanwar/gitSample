@@ -7,6 +7,7 @@ public class Demo2 {
 	public void sample2()
 	{
 		System.out.println("hi this commit 2");
+		System.out.println("this is commit practise");
 	}
 
 }
